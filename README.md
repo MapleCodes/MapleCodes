@@ -1,20 +1,17 @@
 ![github-header-image](https://user-images.githubusercontent.com/96672739/206433806-4a260ff6-6025-4799-aa53-6d57f0fc4f46.png)
 
-### Hi there 👋
-There is nothing to be had here, as I am in the progress of migrating accounts.
-As of: 8 December 2022, GMT +9.
+    Don't be average, Aim to either be the best, or to be the worst. 
+    People in the end only find out more about the best, or the worst. 
+    From there, it's up to your display to showcase you.
 
-<!--
-**MapleCodes/MapleCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey There! 👋
+If you are reading this, I am **Maple**!
+Equipped to handle tasks for `Java`, `C#`, `dotnet`, `Python`, `JS`. 
 
-Here are some ideas to get you started:
+(I have others too, but I'll save you the hassle from reading!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Wow.. It's empty here..
+
+Wonder why my repository is deserted? Its because it's brand new!
+I am in the process of bringing all of my things over from my previous account that is more organized.
+Last updated as of: 8th December 2022, GMT +9.
