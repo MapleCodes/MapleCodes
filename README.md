@@ -1,4 +1,8 @@
+![github-header-image](https://user-images.githubusercontent.com/96672739/206433806-4a260ff6-6025-4799-aa53-6d57f0fc4f46.png)
+
 ### Hi there 👋
+There is nothing to be had here, as I am in the progress of migrating accounts.
+As of: 8 December 2022, GMT +9.
 
 <!--
 **MapleCodes/MapleCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
