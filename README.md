@@ -10,12 +10,7 @@ Equipped to handle tasks for `Java`, `C#`, `dotnet`, `Python`, `JS`.
 
 (I have others too, but I'll save you the hassle from reading!)
 
-## Wow.. It's empty here..
-
-Wonder why my repository is deserted? Its because it's brand new!
-I am in the process of bringing all of my things over from my previous account that is more organized.
-Last updated as of: 8th December 2022, GMT +9.
-
 ## Things I do here, is just for fun!
 
 Just want to show off the cool little things I build from time to time.
+Don't expect, large scaled stuff here, just the small little things I like doing time to time.
